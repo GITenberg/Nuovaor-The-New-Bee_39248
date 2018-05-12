@@ -1,0 +1,42 @@
+_repo: Nuovaor-The-New-Bee_39248
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Kellogg, Charlotte
+    alias: Kellogg, Charlotte Hoffman
+    gutenberg_agent_id: '38714'
+    url: http://www.gutenberg.org/2009/agents/38714
+  illustrator:
+    agent_name: Winter, Milo
+    alias: Winter, Milo Kendall
+    birthdate: 1888
+    deathdate: 1956
+    gutenberg_agent_id: '8180'
+    url: http://www.gutenberg.org/2009/agents/8180
+    wikipedia: http://en.wikipedia.org/wiki/Milo_Winter
+covers:
+- cover_type: archival
+  image_path: 39248-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kellogg, Vernon L. (Vernon Lyman)
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '33942'
+    url: http://www.gutenberg.org/2009/agents/33942
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39248'
+  lccn: '20017603'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bees -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Bees -- Folklore'
+title: Nuova; or, The New Bee
+url: http://www.gutenberg.org/ebooks/39248
